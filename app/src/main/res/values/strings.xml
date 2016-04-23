@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zcreen</string>
+    <string name="navigationView_UserInfo">Kullanıcı Bilgileri</string>
+    <string name="navigationView_Settings">Ayarlar</string>
+
+    <string name="openDrawerContentDesc">Open</string>
+    <string name="closeDrawerContentDesc">Close</string>
+</resources>

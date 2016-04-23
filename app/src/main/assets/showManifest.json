@@ -1,0 +1,186 @@
+{
+    "code": 200,
+    "message": "SUCCESS",
+    "data": [
+    	{
+    		"showName": "Survivor",
+    		"type": "contest",
+    		"channel": "TV8",
+    		"airTime": "20:00:00",
+    		"airDays": ["Tue", "Wed", "Fri", "Sat", "Sun"],
+    		"imageURL": "http://img-tv8cdn.mncdn.com/uploads/yayin_akisi/2016/02/05/survivor-yeni-bolum_200619663956b4c5368a2fc.jpg",
+    		"description": "Surivor 2016"
+    	},
+    	{
+    		"showName": "3 Adam",
+    		"type": "entertainment",
+    		"channel": "TV8",
+    		"airTime": "23:15:00",
+    		"airDays": ["Sat"],
+    		"imageURL": "http://img-tv8cdn.mncdn.com/uploads/yayin_akisi/2016/01/25/3-adam.jpg",
+    		"description": "3 Adam"
+    	},
+    	{
+    		"showName": "Eşkıya Dünyaya Hükümdar Olmaz",
+    		"type": "tvShow",
+    		"channel": "ATV",
+    		"airTime": "20:00:00",
+    		"airDays": ["Tue"],
+    		"imageURL": "http://i.atv.com.tr/2015/09/09/960x400/1441802196399.jpg",
+    		"description": " Çocuk denecek yaşta girdiği yeraltı dünyasının tepesine doğru tırmanmakta olan Hızır Çakırbeyli ve ailesinin hikayesi anlatılmaktadır. Yeraltı dünyasına giren her adam haksızlıklara başkaldırmaya yemin eder. Güçlenip zenginleştikçe kendisi bu haksızlıkların kaynağı olur… Hızır Çakırbeyli sevda adamıdır… Sevmekten hiç kaçmaz… Sevilmeyi de pek sever… Hayatındaki tüm kadınların odağında olmak ister; annesi, karısı, kızı ve sevgilisinin… Kardeşini, oğlunu, yeğeninin ve ailesinin diğer fertlerini de canından aziz tutar, onlar için fedakar bir "baba"dır… Vefakar bir dosttur… Vazgeçilmez bir ağabeydir. Adil ve cömert bir reistir… Bu özellikleri onun sonu olacak yerde Hızır'ı yeraltı dünyasında da yüceltir… Sözüne güvenilir, daima iş yapılır bir adam haline gelmişken devletin radarına takılır… Devlet kontrol etmek istediği gayri meşru faaliyetleri yürütmek için ondan iyi bir aday olmadığını düşünür… Bu Çakır'a en büyük olma teklifidir… Teklif öyle iki tarafı keskin bir kılıçtır ki, kabulü halinde "mafya" ailesine ihanet, reddi hali ise ebediyen mahkumiyettir… Devletin Hızır Çakırbeyli'ye koltuğunu vaadettiğini farkeden büyük patron, etrafını ihanetle örülü bir ağla çevirir… Hızır Reis'in özel hayatı da dalgalıdır… Birkaç yıl önce sevdalandığı mimar Nazlı diğer tarafta eşi Meryem... "
+    	},
+    	{
+    		"showName": "Evli ve Öfkeli",
+    		"type": "tvShow",
+    		"channel": "ATV",
+    		"airTime": "20:00:00",
+    		"airDays": ["Sun"],
+    		"imageURL": "http://i.atv.com.tr/2015/10/01/960x400/1443707907243.jpg",
+    		"description": "Dilek, Seray, Esra ve Mine; Bu dört kadının ortak bir tek noktası vardı: Aynı mahallede büyümüş olmaları. Yolları tekrar kesiştiğinde gördüler ki başka hiçbir şekilde ortak noktaları yoktu! Olamazdı da! Ama yanılıyorlardı. Bir ortak noktaları daha vardı. Kısa bir süre sonra anlayacaklardı; hepsi kocaları tarafından aldatılmıştı. Ve hepsi bedelini ödetmek istiyordu! İntikam için bir araya gelen 'ilk eşler kulübünün' dört uçuk kaçık üyesi, yıllar sonra yeniden kendilerini bulurlar."
+    	},
+    	{
+    		"showName": "Diriliş: Ertuğrul",
+    		"type": "tvShow",
+    		"channel": "TRT 1",
+    		"airTime": "20:57:00",
+    		"airDays": ["Wed"],
+    		"imageURL": "http://www.trt1.com.tr/media.ashx?id=56090ccc8a58c912785b4e1c",
+    		"description": "Diriliş “Ertuğrul” Genel Hikayesi: 13. Yüzyıl… Dünya yeni kudretini arıyordu. Ve Anadolu, emperyallerin kavgaya tutuştuğu bir diyardı. 1071’de Türklerin girdiği bu topraklara şimdi, Haçlılar ve Moğollar da ortak olmak istiyordu. Akdeniz, Karadeniz, Balkanlar, Kafkasya ve Mezopotamya yeni sahibini arıyordu. İşte bu yangın yerinde, bizim hikayemizin kahramanı Ertuğrul da, 400 çadırlık obasına bir yurt arıyordu. "
+    	},
+    	{
+    		"showName": "Kara Sevda",
+    		"type": "tvShow",
+    		"channel": "STAR TV",
+    		"airTime": "20:40:00",
+    		"airDays": ["Wed"],
+    		"imageURL": "http://dizisponsorlari.com/img_content/programlar/kara-sevda-dizisponsorlaricom_2.jpg",
+    		"description": "Dizide madende bir facia yaşandıktan sonra hayatı değişen genç bir maden mühendisinin hikayesi anlatılmaktadır. Genç madenciyi Burak Özçivit canlandırıyor. "
+    	},
+    	{
+    		"showName": "Kısmtse Olur",
+    		"type": "contest",
+    		"channel": "Kanal D",
+    		"airTime": "12:15:00",
+    		"airDays": ["Sat"],
+    		"imageURL": "",
+    		"description": "Evlilik yolunda ilerleyen adaylar, özel olarak tasarlanmış iki ayrı evde günde 12 saat geçirecekler ve haftanın birincileri para ödülü kazanacak. Gerek benzer zevkleriyle, gerekse müstakbel eşlerinde aradıkları ortak özelliklerle, hayatlarının aşkını arayan gelin ve damat adaylarından her hafta birer kişinin evlilik hayallerine veda edeceği programda, elenenlerin yerlerine yepyeni adaylar gelecek ve evdeki aşkı bulma şansı hiç bitmeyecek. Programda 3 farklı oylama yer alıyor: 1. Ödül Oylaması: Her hafta her iki takımdan birer kişi seçiliyor. Seçilen 1 kız ve 1 erkek aday hem 10 Bin TL kazanıyor hem de o hafta elenmiyor. Ayrıca karşı takımdan seçecekleri birer kişi ile özel bir ödülün (yemek, eğlenece, vb.) sahibi oluyor. 2. Koruma Oylaması: Her hafta her iki takımdan birer kişi seçiliyor. Seçilen 1 kız ve 1 erkek aday o hafta elenemiyor. 3. Eleme Oylaması: Her hafta her iki takımdan birer kişi seçiliyor. Seçilen 1 kız ve 1 erkek aday yarışmaya veda ediyor. Onların yerine ise birer yeni yarışmacı katılıyor. Oylamalar ya takımların kendi içinde, ya takımlar arası çapraz şekilde ya da SMS ile halk tarafından yapılıyor. "
+    	},
+    	{
+    		"showName": "Müge Anlı ile Tatlı Sert",
+    		"type": "reality",
+    		"channel": "ATV",
+    		"airTime": "10:00:00",
+    		"airDays": ["Mon", "Tue", "Wed", "Thr", "Fri"],
+    		"imageURL": "",
+    		"description": "Faili meçhul cinayetler ve kayıpların yanı sıra birçok sosyal sorumluluk projesi ile de adından sıkça söz ettiren, Hafta içi her gün seyirciyi ekran başına kilitleyen Müge Anlı ve ekibi, üzerinde çalıştığı kayıp dosyalarını, cinayete kurban giden kişileri ve kayıpların tüm yaşamını ortaya çıkararak onları bulmaya, olayları aydınlatmaya devam ediyor..."
+    	},
+    	{
+    		"showName": "İlişki Durumu Karışık",
+    		"type": "tvshow",
+    		"channel": "Show TV",
+    		"airTime": "20:00:00",
+    		"airDays": ["Sat"],
+    		"imageURL": "",
+    		"description": "FailiAşk, kıskançlık, gurur, dostluk ve yanlış anlamaların el ele gideceği bir aşk oyunu hikayesi. Dizide neşe, duygusallık ve heyecan da hiç eksik olmuyor! Başrollerinde Seren Şirince, Berk Oktay, Pamir Pekin ve Eda Ece’nin yer aldığı dizinin yapımcılığını MF Yapım-Faruk Bayhan’ın üstleniyor."
+    	},
+    	{
+    		"showName": "Paramparça",
+    		"type": " tvshow ",
+    		"channel": "Star TV",
+    		"airTime": "20:00:00",
+    		"airDays": ["Mon"],
+    		"imageURL": "",
+    		"description": "Kavuşmaları kadar ayrılmaları da imkansız… Büyük, paramparça bir aşk hikayesi… Ayrı dünyalara ait olan iki insan, ne kavuşmaları ne de ayrılmaları mümkün… İki kaza ile yoları hiçbir zaman ayrılmayacak şekilde kesişen 6 kişi... Bambaşka hayallere ve hayatlara yürürken yolları birleşecek ve sonsuza kadar ayrılmaz bağlarla birbirine bağlanacaklar… Çok zor ekonomik şartlarda 14 yaşındaki kızını yetiştirmeye çalışan Gülseren, görümcesi ile yaşamaktadır. Yaşadıkları küçük dünyayı zorlayacak hevesleri olan 14 yaşındaki kızıyla baş etmeye çalışırken hayatı bir anda tepetaklak olur. Genç kadın, kendisini yıllar önce terk eden kocasıyla boşanma işlemlerini yürütürken, yağmurlu bir günde, travmatik bir olay sonucunda Cihan ile karşılaşır. Cihan, evli ve iki çocuk sahibi bir adamdır. İyi bir baba, cesur bir işadamı, mutsuz bir erkektir. 15 yıl arayla gelen iki kaza ile, iki kadın bir erkek ve üç çocuğun hayatı ve kaderleri hiç beklemedikleri, üstüne üstlük aşılması mümkün olmayan bir şekilde sonsuza kadar birbirlerine bağlanacaktır. Ortadaki soru cevapsız, çözüm imkansızdır. "
+    	},
+    	{
+    		"showName": "Gecenin Kraliçesi",
+    		"type": " tvshow ",
+    		"channel": "Star TV",
+    		"airTime": "20:00:00",
+    		"airDays": ["Tue"],
+    		"imageURL": "",
+    		"description": " Selin (Meryem Uzerli), Güney Fransa’nın Grasse şehrinde yıllardır aşkın kokusunu aramaktadır, bu sihirli uğraş Kartal’ın (Murat Yıldırım) ona ilk gördüğü anda aşık olmasını sağlar. "
+    	},
+        {
+            "showName": "Karagül",
+            "type": " tvshow ",
+            "channel": "Fox",
+            "airTime": "20:00:00",
+            "airDays": ["Fri"],
+            "imageURL": " http://www.fox.com.tr/Programlar/Karagul/resimler/anasayfa/1443549075.jpg",
+            "description": " Baran’ın oğlu olduğunu gerçeğini öğrenen Ebru, oğlunu geri alabilmek için kıyasıya bir savaşa girer. Artık Ebru’nun tek bir hedefi vardır, dört çocuğunu da alıp Halfeti’den gidebilmek.  Ancak başta Kendal ve Narin olmak üzere karşısına çıkan engeller yüzünden bu, zannettiği kadar kolay olmayacaktır. Ebru, öldü zannettiği oğlu Baran’a kavuşabilmek için yanıp tutuşurken, bir yandan da savrulan diğer çocuklarını yeniden bir araya getirebilmek için mücadele eder.Kadriye Ana, hayatının en büyük günahı olan bu sırla başlayan ve geçmiş günahları ile yüzleşmesi sırasında, konakta ki herkes bir yana savrulur. Kenan, kurduğu intikam planını adım adım ilerletirken, Kendal hiç beklemediği alanlardan sıkışmaya başlar ve konak kadınlarının da savaş silahı olacağı bu mücadelede en büyük zaafı ile vurulur."
+        },
+        {
+            "showName": "Aşk Yeniden",
+            "type": "tvshow",
+            "channel": "Fox",
+            "airTime": "20:00:00",
+            "airDays": ["Tue"],
+            "imageURL": "http://www.fox.com.tr/Programlar/Ask-Yeniden/resimler/anasayfa/1448611912.jpg",
+            "description": "Sevdiklerini, tüm ailesini, hayatını geride bırakarak, aşık olduğu Ertan’ın peşinden Amerika’ya kaçan Zeynep, elinde hayal kırıklıkları ve bebeğiyle Türkiye’ye geri döner. Diğer tarafta Amerika’ya eğitim için giden Fatih’in de hayal kırıklıkları ile ülkesine, ailesinin yanına dönme vakti gelmiştir. Bu iki insanı ve iki farklı hayatı eve dönüş yolunda buluşturan hikaye “Aşk Yeniden” FOX'ta!"
+        },
+        {
+            "showName": "Kiralık Aşk",
+            "type": "tvshow",
+            "channel": "Star",
+            "airTime": "20:00:00",
+            "airDays": ["Fri"],
+            "imageURL": "http://img-cdn.startv.com.tr/Series/195x115/1410.jpg?v=42346,6381454514",
+            "description": "Defne’nin kalbinde bir aşk vardır fakat kapışana gelen şans onu baştan çıkartır ve bu 6 aylık oyun tarzında iş teklifini kabul eder. Yapması gereken 6 ay için zengin bir iş adamının kalbini çalıp kendisine aşık etmektir. Bunu yapabilmek için de aşık olduğu adamdan yardım ister ve ikili bunu gerçekleştirmek için işe koyulurlar. Fakat zamanla işler karışmaya başlar ve iş olarak başlayan bu oyun bir aşk üçgenine dönüşmeye başlar."
+        },
+        {
+            "showName": "Kurtlar Vadisi Pusu",
+            "type": "tvshow",
+            "channel": "Kanal D",
+            "airTime": "20:00:00",
+            "airDays": ["Thu"],
+            "imageURL": "s.kanald.com.tr/ps/kanald/98/800x0/54665ed1f6309a10e0483739.jpg",
+            "description": "İlk bölümü 15 Ocak 2003’te yayınlanan Kurtlar Vadisi, 2007 yılından itibaren Kurtlar Vadisi Pusu adıyla ekran macerasına aralıksız devam ediyor. Kurtlar Vadisi Pusu yayınlandığı ilk günden beri “Kendi gününde kendi saatinde” sloganıyla Perşembe günleri Saat 20.00’de ekrana geliyor… Dizi, Türk Televizyonculuk tarihinin kendinden en çok bahsettiren yapımı olurken, aradan geçen uzun yıllara rağmen bu özelliğini hala sürdürüyor. Dizide, Polat Alemdar ve ekibinin Türkiye’yi karıştırmak isteyen karanlık güçlere karşı mücadelesi anlatılırken, kendi hayatını ülkesine adayan bir adamın zorluklarla dolu mücadelesi ortaya konuyor…"
+        },
+        {
+            "showName": "Poyraz Karayel",
+            "type": "tvshow",
+            "channel": "Kanal D",
+            "airTime": "20:00:00",
+            "airDays": ["Wed"],
+            "imageURL": "http://s.kanald.com.tr/ps/kanald/98/800x0/549bee28f493b830e06f9399.jpg",
+            "description": "Aşkın ve nefretin, dostluğun ve düşmanlığın, iyiliğin ve kötülüğün en uçlarda yaşandığı bir hikaye... Poyraz, dibi görmüş bir adam. Hayatta sevdiği, değer verdiği her şeyi ailesini, mesleğini, karısını ve oğlunu kaybetmiş. Bütün bu dertlerle dalga geçerek ayakta kalmış. Canından çok sevdiği oğlunu, kayınpederi Ünsal’dan almak için çaresizlik içinde düşünürken, oğlunu almak için eski amiri Mümtaz, ona bir teklif yapar. Bahri Umman adlı bir mafya babasının yanına girecek ve ona bilgi sağlayacaktır. Çaresiz kalan Poyraz, bu teklifi kabul etmek zorunda kalır. Bu arada Ayşegül diye bir kızla tanışmıştır. Poyraz, kendi başını belaya sokma konusunda uzman olduğundan, Ayşegül’ü de her belanın içine katmayı başarır. İkili, ilk andan itibaren birbirlerinden hoşlanmışlardır. Ne var ki bu iki yaralı, yorgun ve yalnız insan için aşk imkansız gibi görünmektedir. Çünkü Ayşegül, Poyraz’ın patronu Bahri Umman’ın kızıdır ve üstelik Poyraz bu gerçeği Ayşegül’den saklamak zorundadır."
+        },
+        {
+            "showName": "Kırgın Çiçekler",
+            "type": "thshow",
+            "channel": "Atv",
+            "airTime": "20:00:00",
+            "airDays": ["Mon"],
+            "imageURL": "http://i.atv.com.tr/2015/06/05/960x400/1433484554825.jpg",
+            "description": "Eylül 16'sında bir kız. Bir gecekonduda annesi Mesude, kız kardeşi Büşra ve üvey babası Kemal'le birlikte yaşıyor. Eylül, Kemal'in tacizine uğruyor. Durumu annesine anlatıyor. Annesi düşünüp taşınıp bir çözüm buluyor, Eylül'ü yetimhaneye teslim ediyor. Annesi tarafından yetimhaneye bırakılan Eylül'ü yetimhanenin müdür yardımcısı Feride avutmaya çalışıyor. O geceden itibaren Eylül'ün yetimhane günleri başlar."
+        },
+        {
+            "showName": "Esra Erol’da",
+            "type": "reality",
+            "channel": "Atv",
+            "airTime": "16:25:00",
+            "airDays": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+            "imageURL": "http://i.atv.com.tr/2015/08/07/960x400/1438940072161.jpg",
+            "description": "Aşka dair umutlarımızı her daim yeşerten Türkiye'nin en sevilen programı Esra Erol'da atv'de hafta içi her gün karşınızda. Bugüne kadar yüzlerce mutlu yuvanın kurulmasına vesile olan ve 9 sezondur ekranlarda yerini alan Esra Erol, gelin ve damat adaylarıyla bu programda buluşuyor. Yine, en çok izlenen evlilik programı olmayı başararak ekranda fırtınalar estiriyor. Esra Erol'da hafta içi her gün atv'de!"
+        },
+        {
+            "showName": "Hayat Şarkısı",
+            "type": "tvshow",
+            "channel": "Kanal D",
+            "airTime": "20:00:00",
+            "airDays": ["Tue"],
+            "imageURL": "http://s.kanald.com.tr/ps/kanald/98/300x200/569cf99be50aa909a40a6fe2.png",
+            "description": "Mudanya yakınlarındaki Işıklar Köyü'nde doğup büyümüş olan Bayram ve büyürken tek arkadaşı olan kan kardeşi Salih, aralarındaki bir anlaşmazlığı tatlıya bağlamak için çocukları Melek ile Kerem’i küçük yaşta nişanlarlar ve çocuklar büyüyüp evlenme çağına gelene kadar da farklı şehirlerde yaşamlarını sürdürmeye devam ederler. İki çocuk sahibi olan Bayram, ailesi ile yerleşmiş olduğu İstanbul’da işlerini geliştirip büyük bir servete sahip olsa da verdiği sözü unutmaz. Genç oğlu Kerim’i üniversiteden mezun olduğu gün yanına alarak  Işıklar Köyü'nde iki kızı, Hülya ve Melek ile yaşayan Salih’in kapısını çalar. Salih de verdiği söze sadıktır ve Bayram’ın gelişi ile çocukların düğün kararını kesinleştirirler. Oysa her iki ailenin çocukları geçen yıllar içerisinde kendilerine ait birer hayat kurmuş ve farklı sevdalara ve hedeflere yönelmiştir. Gençler kendi aralarında bu mecburi evlilikle ilgili kararlar alıp, buldukları çözümlerle rahatlasalar da; hiç hesaba katmadıkları Hülya’nın planları çoktan devreye girmiştir."
+        },
+        {
+            "showName": "Zuhal Topal’la",
+            "type": "reality",
+            "channel": "Fox",
+            "airTime": "16:30:00",
+            "airDays": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+            "imageURL": "http://s.kanald.com.tr/ps/kanald/98/300x200/569cf99be50aa909a40a6fe2.png",
+            "description": "Başlangıçlar güzeldir, bitişler zor… Tanışmalar heyecanlı ve umutlu, ayrılışlar acı... FOX ekranlarında gelin ve damat adaylarını buluşturarak, mutlu yuvalar kurulmasına öncülük edecek olan ünlü oyuncu Zuhal Topal, programında izleyicilere unutulmaz anlar yaşatacak! Gelin, hayatınızın en güzel ‘hikayesini’  birlikte yazalım.... Bambaşka heyecanların ve samimi duyguların paylaşılacağı; en önemlisi ‘yalnız kalplerin’ buluşacağı programda, halkın içinden, gerçek hikayeler milyonlarla buluşacak... Hafta içi her gün 16:30’da canlı olarak yayınlanacak olan “Zuhal Topal’la..” mutlu bir yuva kurmak isteyen gelin ve damat adayları ile mutluluğun kapılarını ardına kadar aralayacak!."
+        }
+    ]
+}
