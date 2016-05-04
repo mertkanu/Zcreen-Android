@@ -92,7 +92,7 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <LinearLayout
+    <FrameLayout
         android:id="@+id/nest_scrollview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -105,5 +105,17 @@
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
-    </LinearLayout>
+
+
+    </FrameLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="56dp"
+        android:id="@+id/floating_action_button"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        app:rippleColor="@color/deep"
+        app:fabSize="normal"/>
 </android.support.design.widget.CoordinatorLayout>

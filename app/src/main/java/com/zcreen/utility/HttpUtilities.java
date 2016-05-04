@@ -7,7 +7,8 @@ import com.zcreen.Zcreen;
 
 /**
  * Created by mertkanuzunparmak on 23/02/16.
- * mertkan@mobilike.com
+ * mertkan@mobilike.
+ * @deprecated Using {@link com.zcreen.network.UserAgentInterceptor} class
  */
 public class HttpUtilities {
 

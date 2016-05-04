@@ -56,19 +56,13 @@ public class TvGuideAdapter extends BaseRecyclerAdapter<TvGuideAdapter.ViewHolde
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
         public ImageView tvShowImage;
-        public CircleImageView tvChannelIcon;
         public TextView tvShowName;
-        public TextView tvShowType;
-        public TextView airTime;
         public TextView listPosition;
 
         public ViewHolder(View itemView) {
             super(itemView);
             tvShowImage = (ImageView) itemView.findViewById(R.id.list_item_tvshow_imageView);
-            tvChannelIcon = (CircleImageView) itemView.findViewById(R.id.list_item_tv_icon_imageView);
             tvShowName = (TextView) itemView.findViewById(R.id.list_item_show_name_textView);
-            tvShowType = (TextView) itemView.findViewById(R.id.list_item_show_type);
-            airTime = (TextView) itemView.findViewById(R.id.list_item_air_timeday_textView);
             listPosition = (TextView) itemView.findViewById(R.id.list_item_position);
 
         }

@@ -5,11 +5,14 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.squareup.picasso.Picasso;
 import com.zcreen.R;
 import com.zcreen.core.BaseRecyclerAdapter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -37,6 +40,7 @@ public class CommentsAdapter extends BaseRecyclerAdapter<CommentsAdapter.ViewHol
     public void onBindViewHolder(ViewHolder holder, int position) {
         String comment = comments.get(position);
         holder.comment.setText(comment);
+        Picasso.with(context).load(R.mipmap.ic_launcher).into(holder.imageView);
     }
 
     @Override
@@ -47,10 +51,12 @@ public class CommentsAdapter extends BaseRecyclerAdapter<CommentsAdapter.ViewHol
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
         public TextView comment;
+        public ImageView imageView;
 
         public ViewHolder(View itemView) {
             super(itemView);
             comment = (TextView) itemView.findViewById(R.id.list_item_comments_comment_textView);
+            imageView = (ImageView) itemView.findViewById(R.id.list_item_user_display_photo);
 
         }
     }

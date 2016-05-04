@@ -5,41 +5,42 @@
     android:background="@color/shallow">
 
     <TextView
+        android:id="@+id/list_item_position"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="8dp"
         android:gravity="center"
         android:textSize="18sp"
-        android:textStyle="bold"
-        android:layout_marginLeft="8dp"
-        android:layout_alignParentLeft="true"
-        android:id="@+id/list_item_position"/>
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/list_item_tvshow_imageView"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
         android:layout_toRightOf="@id/list_item_position"
         android:scaleType="fitXY"
-        android:transitionName="showPhoto"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp" />
+        android:transitionName="showPhoto" />
 
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:padding="8dp"
-        android:layout_toLeftOf="@+id/rating_layout"
         android:layout_alignParentBottom="true"
-        android:layout_toRightOf="@+id/list_item_tvshow_imageView">
+        android:layout_toLeftOf="@+id/rating_layout"
+        android:layout_toRightOf="@+id/list_item_tvshow_imageView"
+        android:padding="8dp">
 
         <TextView
             android:id="@+id/list_item_show_name_textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
+            android:maxLines="2"
             android:textColor="@color/primary_text"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold" />
 
         <TextView
@@ -52,24 +53,24 @@
 
         <LinearLayout
             android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:gravity="center_vertical"
-            android:layout_height="wrap_content">
+            android:gravity="center_vertical">
 
             <ProgressBar
                 style="@style/Widget.AppCompat.ProgressBar.Horizontal"
                 android:layout_width="0dp"
-                android:layout_weight="7"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="8dp"
-                android:progressTint="@color/progressbar_color"
-                android:progress="50" />
+                android:layout_weight="7"
+                android:progress="50"
+                android:progressTint="@color/progressbar_color" />
 
             <TextView
                 android:id="@+id/list_item_show_remaining_time"
                 android:layout_width="0dp"
-                android:layout_weight="3"
                 android:layout_height="wrap_content"
+                android:layout_weight="3"
                 android:text="50 dk."
                 android:textColor="@color/primary_text" />
 
@@ -79,20 +80,20 @@
     </RelativeLayout>
 
     <LinearLayout
-        android:layout_width="80dp"
-        android:gravity="center"
+        android:id="@+id/rating_layout"
+        android:layout_width="76dp"
+        android:layout_height="80dp"
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
-        android:orientation="vertical"
-        android:layout_height="80dp"
-        android:id="@+id/rating_layout">
+        android:gravity="center"
+        android:orientation="vertical">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:text="Rating:"
             android:layout_marginRight="8dp"
+            android:text="Rating:"
             android:textColor="@color/primary_text"
             android:textSize="10sp"
             android:textStyle="bold" />

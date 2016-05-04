@@ -16,6 +16,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 public class NetworkManager {
 
+    // TODO Kerem & Saygın. Buradan sizin apilere çekebilirsiniz.
     private final String BASE_URL = "http://ad.mobilike.com/";
 
     private final ManifestApi manifestApi;

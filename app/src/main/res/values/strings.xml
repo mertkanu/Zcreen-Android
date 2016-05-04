@@ -5,4 +5,30 @@
 
     <string name="openDrawerContentDesc">Open</string>
     <string name="closeDrawerContentDesc">Close</string>
+
+    <string-array name="comments">
+        <item>Bu yorum bir harika</item>
+        <item>Bu yorum olağanüstü</item>
+        <item>Bu yorum ooffff diyorum</item>
+        <item>Bu yorum var ya pehhh!</item>
+        <item>Bu yorum bile değil!</item>
+        <item>Tavşan deliğe kaçtı</item>
+        <item>Fil osurdu sincap ağladı</item>
+        <item>Ben bir garip Mertkanım</item>
+        <item>Damlaya damlaya göl olmam</item>
+        <item>Aslan olur kuş avlarım.</item>
+    </string-array>
+
+    <string-array name="surveys">
+        <item>Murat boz kimi şaapar?</item>
+        <item>kim kimi naapar?</item>
+        <item>sana 1 milyon verseler?</item>
+        <item>5 milyon?</item>
+        <item>valla bana verseler ok</item>
+        <item>Tavşan deliğe kaçtı</item>
+        <item>Fil osurdu sincap ağladı</item>
+        <item>Ben bir garip Mertkanım</item>
+        <item>Damlaya damlaya göl olmam</item>
+        <item>Aslan olur kuş avlarım.</item>
+    </string-array>
 </resources>

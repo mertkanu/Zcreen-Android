@@ -27,6 +27,8 @@ public class DetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
+        setTitle("");
+
         Bundle bundle = getIntent().getExtras();
         if (bundle != null) {
             imageUrl = (String) bundle.get("showImage");
